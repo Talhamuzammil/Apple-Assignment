@@ -1,0 +1,296 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+.hd{
+    background-color: #000000CC;
+    padding: 10px;
+}
+nav{
+    width: 75%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+    color: #f5f5f7;
+    font-size: 14px;  
+    
+}
+.para{
+   margin: 15px 215px;  
+   font-size: 14px;
+   
+}
+.p{
+    background-color:  #f0f0f0;
+    padding: 1px;
+}
+.shop{
+    text-decoration: none;
+    color: rgb(0, 102, 204);
+}
+.shop:hover{
+    border-bottom: 1px solid; 
+}
+.sec-1{
+    height: 100vh;
+    background-image: url(hero_iphone_13pro\ large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head-1{
+    padding: 42px 0px 0px 0px;
+    font-size: 50px;
+    color: #1D1D1D;
+    text-align: center;
+}
+.head-2{
+    text-align: center;
+    line-height: 50px;
+    color: rgb(49, 45, 45);
+    font-size: 25px;
+}
+.As{
+    text-align: center;
+    color: rgb(153, 153, 153);
+    font-size: 18px;
+}
+.anchor1{
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;    
+}
+
+.anchor1 a{
+    color: rgb(0, 102, 204);
+    text-decoration: none;
+    padding: 20px;
+}
+.sec-2{
+    margin-top: 10px;
+    height: 100vh;
+    background-image: url(hero\ 2\ iphone_13\ large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head1{
+    padding: 42px 0px 0px 0px;
+    font-size: 55px;
+    color: lightgray;
+    text-align: center;
+}
+.head2{
+    text-align: center;
+    line-height: 50px;
+    color: rgb(223, 177, 193);
+    font-size: 27px;
+}
+.sec-3{
+    background-color:#fbfbfd;
+    margin-top: 10px;
+    height: 100vh;
+    background-image: url(Watch\ large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heads1{
+    padding: 42px 0px 0px 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.heads2{
+    text-align: center;
+    line-height: 50px;
+    color: black;
+    font-size: 27px;
+}
+.sec-4{
+    margin-top: 10px;
+    height: 100vh;
+    width: 100%;
+}
+.sec4-head4{
+    height: 100%;
+    width: 100%;
+}
+.headss1{
+    background-image: url(promo_bts_last_chance__dqftd8sek46e_large.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 49.5%;
+}
+.headss2{
+    background-image: url(promo_ipad_mini_large\ with\ hand.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    float: right;
+    width: 49.5%;
+}
+.p1{
+    padding: 42px 0px 0px 0px;
+    font-size: 18px;
+    color: #bf4800;
+    text-align: center;
+}
+.hd1{
+    text-align: center;
+    color: #000000CC;
+    font-size: 38px;
+    line-height: 30px;
+}
+sup{
+    font-size: 15px;
+}
+.sec-5{
+    margin-top: 10px;
+    height: 100vh;
+    width: 100%;
+}
+.sec5-head5{
+    height: 100%;
+    width: 100%;
+}
+.headss-1{
+    background-image: url(promo_imac__crg641tip4q6_large.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 49.5%;
+}
+.headss-2{
+    background-image: url(tile_apple_fitness_plus\ large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    float: right;
+    width: 49.5%;
+}
+.heading1{
+    padding: 42px 0px 0px 0px;
+    font-size: 40px;
+    color: #000000CC;
+    text-align: center;
+}
+.tata{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.sec-6{
+    margin-top: 10px;
+    height: 100vh;
+    width: 100%;
+}
+.sec6-head6{
+    height: 100%;
+    width: 100%;
+}
+.hd-1{
+    background-image: url(tile__cauwwcyyn9hy_large\ white\ card.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 49.5%;
+}
+.hd-2{
+    background-image: url(the\ morning\ show.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    float: right;
+    width: 49.5%;
+}
+.image{
+    padding: 380px 0px 0px 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sec-7{
+    margin: 10px 0px 0px 0px;
+    background-color:  #f0f0f0;
+    border-bottom: 1px solid #d2d2d7;
+    padding: 17px 0 11px;
+}
+.ol-1{
+    word-spacing: 2px;
+    padding: 20px 200px;
+    color: #86868b;
+    font-size: 12px;
+    list-style: none;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color: #f0f0f0;
+    padding: 30px 0px;
+}
+.container{
+    max-width: 1080px;
+    margin: auto;
+}
+ul{
+    list-style: none;
+}
+.footer-col{
+    margin-left: 63px;
+}
+.footer-col h4{
+    font-size: 12px;
+    /* margin-right: 20px; */
+    margin-bottom: .8em;
+    color: #000000CC;
+}
+.footer-col ul li a{
+    font-size: 12px;
+    display: block;
+    text-decoration: none;
+    color: #86868b;
+    transition: all 0.3s ease;
+}
+.footer-col ul li{
+    margin-bottom: 10px;
+}
+.footer-col ul li a:hover{
+    padding-left: 7px;
+}
+
+a{
+    text-decoration: none;
+}
+.paragraph{
+    padding: 10px 200px;
+    color: #86868b;
+    font-size: 12px;
+}
+.paragraphs{
+    margin-top: 0px 0px 0px 0px;
+    padding: 0px 200px;
+    color: #86868b;
+    font-size: 12px;
+}
+
+
+
